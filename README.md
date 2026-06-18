@@ -1,38 +1,21 @@
-#include <stdio.h>
+MARK DOWN 
 
-int main() {
+# Python Learning Journey 
 
-    char op;
-    double first, second;
+Welcome to my Python learning repository!
 
-    printf("Enter an operator (+, -, *, /): ");
-    scanf("%c", &op);
+I am a First-Year ECE student learning programming and documenting my progress through daily practice.
 
-    printf("Enter two operands: ");
-    scanf("%lf %lf", &first, &second);
+## What You'll Find Here
+- Python Basics
+- Loops & Conditions
+- Functions
+- AND EVERY BASIC-ADAVNCED OF MY LEARNING 
+- Problem Solving
+- Mini Projects
+- Daily Practice 
 
-    switch (op) {
+## Goal
+To stay consistent, improve my coding skills, and build a strong foundation in programming.
 
-        case '+':
-            printf("%.1lf + %.1lf = %.1lf", first, second, first + second);
-            break;
-
-        case '-':
-            printf("%.1lf - %.1lf = %.1lf", first, second, first - second);
-            break;
-
-        case '*':
-            printf("%.1lf * %.1lf = %.1lf", first, second, first * second);
-            break;
-
-        case '/':
-            printf("%.1lf / %.1lf = %.1lf", first, second, first / second);
-            break;
-
-        default:
-            printf("Error! operator is not correct");
-    }
-
-    return 0;
-}
-   
+Thanks for visiting!!!
