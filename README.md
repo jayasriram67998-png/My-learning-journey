@@ -1,4 +1,3 @@
-MARK DOWN 
 
 # Python Learning Journey 
 
